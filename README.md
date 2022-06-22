@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musthaqahamed53 Sheik Musthaq Ahamed
 - 👀 I’m interested in learning Automation testing 
 - 🌱 I’m currently learning Java and Selenium
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  learning Cucumber online
 - 📫 How to reach me ... musthaq53ahamed@gmail.com
  
 <!---
