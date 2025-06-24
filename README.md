@@ -2,7 +2,7 @@
 
 - 💼 QA Automation Tester with 3+ years of experience  
 - 👀 Interested in Automation Testing and QA tools  
-- 🌱 Currently learning Java, Selenium, and Cucumber  
+- 🌱 Currently learning Java, Selenium, Cucumber, RestAssured 
 - 📫 Reach me at: musthaq53ahamed@gmail.com
 
 <!---
